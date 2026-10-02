@@ -26,6 +26,6 @@ export const MOCK_RECORDS: RawRecord[] = [
   { id: '9', character: 'Romero', player: 'Hell', count: 8 },
 
   // Piratex (ex: 7/35)
-  { id: '10', character: 'Piratex', player: 'Velax', count: 4 },
-  { id: '11', character: 'Piratex', player: 'Tuzão', count: 3 },
+  { id: '10', character: 'Mardovik', player: 'Velax', count: 4 },
+  { id: '11', character: 'Mardovik', player: 'Tuzão', count: 3 },
 ];
