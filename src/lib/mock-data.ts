@@ -5,7 +5,7 @@ export interface RawRecord {
   count: number;
 }
 
-export const KNOWN_CHARACTERS = ['Soulreaper', 'Crash', 'Romero', 'Piratex'] as const;
+export const KNOWN_CHARACTERS = ['Soulreaper', 'Crash', 'Romero', 'Mardovik'] as const;
 export const KNOWN_PILOTS = ['Hell', 'Velax', 'Beats', 'Tuzão'] as const;
 export const MAX_DGS_PER_CHAR = 35;
 
