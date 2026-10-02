@@ -74,7 +74,7 @@ export default function SimpleDashboardPage() {
             <div className="flex items-center gap-2 text-amber-300">
               <AlertTriangle className="w-4 h-4 shrink-0 text-amber-400" />
               <span>
-                Visualizando dados de exemplo para <strong>Soulreaper, Crash, Romero e Piratex</strong>.
+                Visualizando dados de exemplo para <strong>Soulreaper, Crash, Romero e Mardovik</strong>.
               </span>
             </div>
             <button
